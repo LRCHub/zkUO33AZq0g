@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガタゴト",
+  "base_artist": "弌誠",
+  "createdAt": "2026-04-01T12:33:51.560139Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガタゴト",
+      "artist": "弌誠",
+      "has_synced": false,
+      "path": "select/pl_01_ガタゴト_弌誠.txt"
+    }
+  ]
+}
